@@ -1,5 +1,4 @@
 export const DUMMY_USERS = [
-  
   { id: 'u1', name: 'Michelle Obama', avatar: 'user-1.jpg' },
   { id: 'u2', name: 'Shilpa Batthineni', avatar: 'user-2.jpg' },
   { id: 'u3', name: 'DJ Bravo', avatar: 'user-3.jpg' },
